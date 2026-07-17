@@ -1,0 +1,30 @@
+# Node
+node_modules/
+
+# React
+build/
+
+# Expo
+.expo/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# ChromaDB
+chroma_db/
+
+# AI Models
+*.safetensors
+*.bin
+
+# VS Code
+.vscode/
