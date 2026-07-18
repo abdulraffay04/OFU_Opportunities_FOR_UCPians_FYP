@@ -475,7 +475,14 @@ MODEL_NAME=llama-3.3-70b-versatile
 
 ## Project Demonstration Video
 
+**Web App Video**
+
 https://github.com/user-attachments/assets/0f6d2567-3caf-4869-b70b-68a366bbd8b9
+
+**Mobile App Video**
+
+https://github.com/user-attachments/assets/3f1d6674-8edf-4a28-ad9b-4017af48555e
+
 
 - Youtube Video: https://youtu.be/gAfatefvdUM?si=qlYfUXIPDaijKROU
 
