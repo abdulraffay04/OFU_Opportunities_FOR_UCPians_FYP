@@ -19,7 +19,7 @@ The platform is built as **5 independent services** that communicate over HTTP, 
 - [Firestore Data Model](#firestore-data-model)
 - [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
-- [Development Team](#development-team)
+- [Development Team](#Development-Team-(Authors))
 
 ---
 
@@ -473,15 +473,15 @@ MODEL_NAME=llama-3.3-70b-versatile
 
 ---
 
-##Project Demonstration Video
-
+## Project Demonstration Video
 
 https://github.com/user-attachments/assets/0f6d2567-3caf-4869-b70b-68a366bbd8b9
 
 - Youtube Video: https://youtu.be/gAfatefvdUM?si=qlYfUXIPDaijKROU
 
+---
 
-## Development Team ( Authors )
+## Development Team (Authors)
 
 **Developed By:**
 
