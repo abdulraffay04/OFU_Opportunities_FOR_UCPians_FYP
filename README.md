@@ -506,5 +506,5 @@ https://github.com/user-attachments/assets/3f1d6674-8edf-4a28-ad9b-4017af48555e
 **Project Supervisor**
 
 **Dr. Aneela Mehmood**  
-Senior Lecturer, Faculty of Information Technology (FOIT)  
+Senior Lecturer, Faculty of Information Technology 
 University of Central Punjab (UCP), Lahore
